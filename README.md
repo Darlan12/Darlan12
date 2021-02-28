@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **Darlan12/Darlan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ My name is **Darlan Vieira**, I am from Brazil, I am a student of rocketseat, and passionate about technology. Currently studying Front-end technologies like **ReactJS**, **Typescript** and **NextJS**.
+ 
+  My biggest goal as a **Developer**, is to contribute and transform the world🌎  with technology.
+  
+  ## A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso.
+  
+  Reach me out👇
+  
+ [!Linkedin Badge](https://www.linkedin.com/in/darlanvieira/)
