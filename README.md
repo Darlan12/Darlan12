@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
  My name is **Darlan Vieira**, I am from Brazil, I am a student of rocketseat, and passionate about technology. Currently studying Front-end technologies like **ReactJS**, **Typescript** and **NextJS**.
  
-  My biggest goal as a **Developer**, is to contribute and transform the world🌎  with technology.
+  My biggest goal as a **Developer**, is to contribute and transform the world  with technology.
   
-  ## A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso.
+  #### "A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso."
   
   Reach me out👇
   
- [Linkedin.com](https://www.linkedin.com/in/darlanvieira/)
+ ![Linkedin.com](https://www.linkedin.com/in/darlanvieira/) 
