@@ -23,4 +23,4 @@ Here are some ideas to get you started:
   
   Reach me out👇
   
- [![Linkedin.com](https://www.linkedin.com/in/darlanvieira/)]
+ ![Linkedin.com](https://www.linkedin.com/in/darlanvieira/)
