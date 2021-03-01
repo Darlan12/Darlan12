@@ -1,26 +1,21 @@
 
+# Darlan Vieira
 
-<!--
-### Hi there 👋
-**Darlan12/Darlan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
 
-Here are some ideas to get you started:
+Sou apaixonado por programação web :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- My name is **Darlan Vieira**, I am from Brazil, I am a student of rocketseat, and passionate about technology. Currently studying Front-end technologies like **ReactJS**, **Typescript** and **NextJS**.
+:rocket:  &nbsp; Sou aluno da  **Rocketseat**
  
-  My biggest goal as a **Developer**, is to contribute and transform the world  with technology.
+<br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ 
+<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, NextJS & Typescript
   
-  #### "A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso."
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, artes e seriados no Netflix
+ 
   
- ### :mailbox: Reach me	
+#### "A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso."
+  
+### :mailbox: Reach me	
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlanvieira/)](https://www.linkedin.com/in/darlanvieira/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darlanvieira06@gmail.com)](mailto:darlanvieira06@gmail.com)
