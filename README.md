@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   
   #### "A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso."
   
-  Reach me out👇
-  
- ![Linkedin.com](https://www.linkedin.com/in/darlanvieira/)
+ ### :mailbox: Reach me	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darlanvieira/)](https://www.linkedin.com/in/darlanvieira/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:darlanvieira06@gmail.com)](mailto:darlanvieira06@gmail.com)
